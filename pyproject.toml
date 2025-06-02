@@ -5,3 +5,4 @@ description = "A TUI command launcher built on top of just. Define recipes once,
 requires-python = ">=3.10"
 # clarify the control flow
 # drop an unused branch
+# handle the edge case from the last release
